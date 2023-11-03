@@ -1,6 +1,4 @@
 import { React, Component } from 'react';
-import nanoid from 'nanoid';
-
 import Modal from './Modal/Modal';
 import { ImageGallery } from './ImageGallery/ImageGallery';
 import Searchbar from './Searchbar/Searchbar';
